@@ -1,1 +1,3 @@
-# git-practise
+# Git Practise
+
+Repo for practising Git.
